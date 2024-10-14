@@ -10,4 +10,6 @@ router.post('/', itemController.createItem);
 
 
 
+
+
 module.exports = router;  // Exporta as rotas para serem usadas em outros arquivos
